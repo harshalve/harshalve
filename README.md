@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshalve
-- 👀 I’m interested in Front - End Projects
-- 🌱 I’m currently learning Competitive Programming & Back - End Development
+- 👀 I’m interested in Full-Stack Projects & Competitive Programming.
+- 🌱 I’m currently learning Competitive Programming & Back - End Development.
 - 💞️ I’m looking to collaborate on Front - End Projects
 - 📫 How to reach me harshalverma4@gmail.com
 
